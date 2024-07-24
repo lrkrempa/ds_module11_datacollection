@@ -1,2 +1,3 @@
 # ds_module11_datacollection
 Homework for Module 11 - Data Collection
+In Module 11, I worked on a web-scraping and data analysis project by idenifying HTML elements on a page, identifying their id and class attributes, and using this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. I also learned to scrape various types of information, including HTML tables and news articles on a webpage.
